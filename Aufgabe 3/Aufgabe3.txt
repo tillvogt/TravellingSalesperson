@@ -1,0 +1,13 @@
+Result - Stopped on time limit
+
+Objective value:                10205.00000000
+Lower bound:                    7248.373
+Gap:                            0.41
+Enumerated nodes:               30161
+Total iterations:               2208636
+Time (CPU seconds):             1401.95
+Time (Wallclock seconds):       1500.22
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       1402.00   (Wallclock seconds):       1500.28
+

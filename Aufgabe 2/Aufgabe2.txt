@@ -1,0 +1,11 @@
+Result - Optimal solution found
+
+Objective value:                11105.00000000
+Enumerated nodes:               303194
+Total iterations:               7259694
+Time (CPU seconds):             3580.71
+Time (Wallclock seconds):       3921.53
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       3580.76   (Wallclock seconds):       3921.58
+
